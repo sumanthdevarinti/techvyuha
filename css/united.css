@@ -21,6 +21,15 @@ body{
     font-size: 3em;
 }
 
+.rules-footer{
+    text-align: center;
+    color: #39b94d;
+    font-size: 1em;
+    line-height: 2rem;
+
+}
+
+
 #judge{
     font-size: 1em;
 }
